@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: In my experience blocks in ruby is code passed to methods.
 
-  Researched answer: Ruby blocks are like JavaScripts anonymous functions. Blocks are code that is passed to a method
+  Researched answer: In my experience Blocks in Ruby are created with do and end keywords. Block are used to pass your code to a method. 
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: In my experience i used gem to install rspec a testing framework for ruby
 
-  Researched answer: A gem is library of code functionality. Gems package up Ruby code so it can be shared to others easily
+  Researched answer: A gem is library of code that is brought into your rspec testing framework. This give the ability to test your ruby code. 
 
 
 
@@ -25,22 +25,22 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: in my experience Ruby on Rails is an way to make web application written in ruby.
 
-  Researched answer: Ruby on Rails is an open-source software used to build web applications. Rails is a framework used to create websites using the general-purpose programming language Ruby.
+  Researched answer: Ruby on Rails is an open-source software used to build web applications. Rails is a framework used to create websites using ruby.
 
 
 
 4. What is a relational database? Are there other kinds of databases?
 
-  Your answer: A relational database is a database that displays information in rows and columns.
+  Your answer: A relational database is a database that displays information in rows and columns. In my experience i am only familiar with relational databases 
 
-  Researched answer: A relational database is a type of database that stores and provides access to data points that are related to one another.
+  Researched answer: A relational database is a type of database is related to one another. The other database is called nonsql and it doesnt have columns and rows
 
 
 5. What are primary keys? Why are they important?
 
   Your answer: Primary keys are used to identify information. They are important because developers dont have to identify each instance.
 
-  Researched answer: Active Record will use an integer column named id as the table's primary key. When using Active Record Migrations to create your tables, this column will be automatically created.
+  Researched answer: In my experience primary keys are created automatically from rails. They set an ID number when we add inforamtion to our database.
 
 
 
@@ -51,7 +51,7 @@ Research and define the following terms to the best of your ability.
 
 2. JSON: JSON stands for JavaScript Object Notation. JSON is used to send data between computers
 
-3. ERB:is a feature of Ruby that enables you to conveniently generate any kind of text, in any quantity, from templates.
+3. ERB: is an extension and stands for embedded ruby. This is a file structure that allows us to code in html and drop ruby code into a view file.
 
 4. Params: parameters being passed to the controller via a GET or POST request. In a GET request, params get passed to the controller from the URL in the user's browser.
 
